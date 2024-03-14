@@ -129,7 +129,7 @@ This bar chart illustrates the premium placed on senior roles and specialized en
 
 The bar chart clearly aligns high median salaries with specialized tech skills, showing the market's demand for advanced competencies. 🚀📈
 
-![](images/salary_skill.png)
+![](images/salary_skills.png)
 
 ## 🔝📊 Final Results: Optimal Skills for Data Roles 
 
