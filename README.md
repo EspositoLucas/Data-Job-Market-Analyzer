@@ -103,7 +103,7 @@ This visualization highlights the potential for high earnings in the data field,
 
 ### Missing Salary Data
 - A striking trend: the majority of countries show less than **10%** of job postings include an annual salary in a job postings.
-- Outliers like Brunei and the Bahamas are rare, with Brunei's job postings revealing salary over **30%** of the time and the Bahamas above **25%**.
+- Outliers like Brunei and the Bahamas are rare, with Bahamas's job postings revealing salary over **30%** of the time and the Brunei above **25%**.
 - The United States sits just above **5%**, but this still means around **95%** of job listings leave applicants guessing. 🤔💡
 
 The data speaks volumes about the global opacity in salary information, with most job seekers left in the dark. 📉🌐
@@ -111,8 +111,7 @@ The data speaks volumes about the global opacity in salary information, with mos
 
 ### Median Salaries for Jobs
 
-- **Senior Data Engineer** leads the pack with a median annual salary well above **$14
-0,000**.
+- **Senior Data Engineer** leads the pack with a median annual salary well above **$140,000**.
 - **Senior Data Scientist** isn't far behind, marking a high value on seniority in data roles.
 - Interesting to note, a **Data Analyst** position shows a noticeably lower median salary compared to engineering roles.
 - **Cloud Engineer** closes the list, hinting at a competitive but slightly lower earning bracket within the tech field.
@@ -124,8 +123,8 @@ This bar chart illustrates the premium placed on senior roles and specialized en
 ### Median Salaries for Skills
 
 - **Spark** and **Java** are at the top, commanding salaries near the **$140,000** mark.
-- **Snowflake** skills also yield a high median salary, despite fewer job postings (3382).
-- **SQL** is a common skill with over **16244 postings**, yet the median salary doesn't top the chart.
+- **Java** skills also yield a high median salary, despite fewer job postings (2760).
+- **SQL** is a common skill with over **12974 postings**, yet the median salary doesn't top the chart.
 - **Excel** shows the lowest median salary, aligning with its position as a foundational, rather than a specialized, skill.
 
 The bar chart clearly aligns high median salaries with specialized tech skills, showing the market's demand for advanced competencies. 🚀📈
