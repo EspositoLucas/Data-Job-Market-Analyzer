@@ -1,6 +1,6 @@
 # Data Job Market Analyzer
 
-This project uncovers the most optimal skills to learn as a data nerd based on real-time data job posting data.
+This project uncovers the most optimal skills to learn as a person who is interested in the world of data based on real-time data job posting data
 
 **Data Source:** The dataset used was based on a related project I made where you can take a look [here](https://github.com/EspositoLucas/Data_Job_Postings_Analysis)
 
