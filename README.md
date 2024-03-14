@@ -2,7 +2,7 @@
 
 This project uncovers the most optimal skills to learn as a data nerd based on real-time data job posting data.
 
-**Data Source:** The dataset used to this project was based on a related project I made where you can take a look [here](https://github.com/EspositoLucas/Data_Job_Postings_Analysis)
+**Data Source:** The dataset used was based on a related project I made where you can take a look [here](https://github.com/EspositoLucas/Data_Job_Postings_Analysis)
 
 ## Results
 The most optimal skills were determined by developing a metric, termed "Skill Multiplier", that aggregates both the normalized demand and normalized salary of a given skill for a job title into a single metric.
@@ -152,6 +152,6 @@ The bar chart clearly aligns high median salaries with specialized tech skills, 
 - **Excel**: Still relevant, especially for **Business Analysts**, signifying that traditional spreadsheet skills retain their value in the job market.
 - **Pandas**: Mentioned for **Data Scientists**, underlining Python's ecosystem for data manipulation as a critical skill.
 
-Overall, the trend suggests a high value placed on versatile programming skills, proficiency in major cloud services, ability to use advanced visualization tools for insights, and a blend of traditional and modern data processing abilities. Each role requires a unique combination of these skills to meet industry demands and maximize salary potential. 🌟📋
+Overall, the trend suggests a high value placed on versatile programming skills, proficiency in major cloud services, ability to use advanced visualization tools for insights, and a blend of traditional and modern data processing abilities. Each role requires a unique combination of these skills to meet industry demands and maximize salary potential.
 
 ![](images/skill_mult.png)
